@@ -31,3 +31,11 @@ play.google.com
 edge.api.brightcove.com
 edge30-ams.live.mmcdn.com
 encrypted-tbn0.gstatic.com
+fonts.gstatic.com
+ogads-pa.clients6.google.com
+paroles.azurewebsites.net
+play.google.com
+search.web-explore.com
+search.yahoo.com
+www.google.com
+www.gstatic.com
