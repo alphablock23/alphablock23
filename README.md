@@ -39,3 +39,13 @@ search.web-explore.com
 search.yahoo.com
 www.google.com
 www.gstatic.com
+b-hls-20.doppiocdn.net
+cn.brevetottroye.com
+creative.imkirh.com
+go.hentaigold.net
+go.imkirh.com
+go.mnaspm.com
+imhentai.xxx
+pipilimagine.shop
+region1.google-analytics.com
+s.magsrv.com
